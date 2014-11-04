@@ -6,7 +6,7 @@ It is an open source project started by the Intel Open Source Technology Center
 
 ## Documents
 
-Check out our [Wiki](wiki).
+Check out our [Wiki](../crosswalk/wiki).
 
 ## Community
 
